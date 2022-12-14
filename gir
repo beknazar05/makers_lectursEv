@@ -1,0 +1,10 @@
+git init - prevrashaet tekishuy directoriy v git repositoriy
+
+git add  nazvaniye faila / . - slejka ukazannuh/vseh failov 
+
+git commit -m "mesaage for commit " - sozdanioye versiy koda s shoobsheniyem
+
+git remote add <name_of_remote> <ssh_key> - svyazuvanie localnogo s udalennum 
+
+git push <name_of_remote> <branch_name> - send version iz githab 
+
